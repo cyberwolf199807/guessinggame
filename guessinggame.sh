@@ -15,6 +15,6 @@ while [[ $answer -ne $files ]]; do
 		echo "Too low, try again."
 	fi
 	prompt
-
 done
+
 echo "Correct guess! Congratulations."
